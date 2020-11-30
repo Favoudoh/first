@@ -1,0 +1,21 @@
+{
+  "name": "firstproject",
+  "version": "1.0.0",
+  "description": "this is my first project",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "start:dev": "nodemon index1.js",
+    "start:bling" : "nodemon new.js",
+    "flow" : "nodemon acc.js",
+    "ren" : "nodemon win.js",
+    "hen" : "nodemon win1.js",
+    "ben" : "nodemon win2.js",
+    "people" : "nodemon people.js",
+    "products" : "nodemon products.js"
+    
+    
+  },
+  "author": "me",
+  "license": "MIT"
+}
